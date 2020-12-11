@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to the Goeppert-Mayer Gauge Podcast Webpage
 
-You can use the [editor on GitHub](https://github.com/FoleyLab/gmgauge/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191), or subscribe on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-goeppert-mayer-gauge/id1537314272), [Spotify](https://open.spotify.com/show/7hh6eZ3TLxJFwuWnLAXM6L?si=qp-GQc4ZSXGgvbvyYtUi2w), and probably other places! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Epsiode 3: THz](https://www.buzzsprout.com/1442191)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FoleyLab/gmgauge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Thermal Radiation of THz Photons and more](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_4.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_4.ipynb)
