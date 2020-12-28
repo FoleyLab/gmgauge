@@ -14,3 +14,10 @@ We will use this page to post additional content, including simulations using [J
 
 - [Scaling relationships from the Particle in a Box](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_5.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_5.ipynb)
+
+Some images SWIR thermal emission detected by an iPhone camera:
+
+![Drag Racing](images/swir_1.png)
+![Grill](images/thermal_emission.png)
+
+Move along.
