@@ -17,7 +17,7 @@ We will use this page to post additional content, including simulations using [J
 
 Some images SWIR thermal emission detected by an iPhone camera:
 
-![Drag Racing](images/swir_1.png)
-![Grill](images/thermal_emission.png)
+![Drag Racing](images/swir_1.png =30x30)
+![Grill](images/thermal_emission.png =30x30)
 
 Move along.
