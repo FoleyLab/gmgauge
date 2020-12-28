@@ -9,3 +9,8 @@ We will use this page to post additional content, including simulations using [J
 
 - [Thermal Radiation of THz Photons and more](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_4.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_4.ipynb)
+
+### [Epsiode 5: SWIR](https://www.buzzsprout.com/1442191)
+
+- [Thermal Radiation of THz Photons and more](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_5.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_5.ipynb)
