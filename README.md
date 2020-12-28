@@ -16,8 +16,9 @@ We will use this page to post additional content, including simulations using [J
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_5.ipynb)
 
 Some images SWIR thermal emission detected by an iPhone camera:
+<img src="images/swir_1.png " alt="Kitten"
+	title="A cute kitten" width="100" height="100" />
 
-![Drag Racing](images/swir_1.png =30x30)
-![Grill](images/thermal_emission.png =30x30)
+<img src="images/thermal_emission.png " alt="Kitten"
+	title="A cute kitten" width="100" height="100" />
 
-Move along.
