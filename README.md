@@ -20,3 +20,7 @@ Some images SWIR thermal emission detected by an iPhone camera:
 <img src="images/swir_1.png " alt="Propane Heater"
 	title="Propane Heater" width="200" height="200" />. <img src="images/thermal_emission.png " alt="Grill" title="Charcoal Grill" width="200" height="200" />
 
+As Justin explains in the episode, the silicon-based iPhone camera detects into the SWIR, but has a filter that blocks
+the relatively small amount of SWIR at ambient temperatures.  However, the blackbody emission from objects
+as hot as a charcoal grill or a propane heater (>500 degrees celcius) is strong enough in the SWIR to be detected by 
+the iPhone camera even with filtration.
