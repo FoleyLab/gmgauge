@@ -18,8 +18,5 @@ We will use this page to post additional content, including simulations using [J
 Some images SWIR thermal emission detected by an iPhone camera:
 
 <img src="images/swir_1.png " alt="Propane Heater"
-	title="Propane Heater" width="200" height="200" />
-
-<img src="images/thermal_emission.png " alt="Grill"
-	title="Charcoal Grill" width="200" height="200" />
+	title="Propane Heater" width="200" height="200" />. <img src="images/thermal_emission.png " alt="Grill" title="Charcoal Grill" width="200" height="200" />
 
