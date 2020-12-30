@@ -20,7 +20,7 @@ We will use this page to post additional content, including simulations using [J
 Some images SWIR thermal emission detected by an iPhone camera are shown below.  To the eye, these objects look orange in color and are somewhat dim; in
 the iPhone camera image, they are bright and look almost pink in color.
 
-<img src="images/swir_1.png " alt="Propane Heater"
+<img src="images/SWIR_2.png " alt="Propane Heater"
 	title="Propane Heater" width="200" height="200" />. <img src="images/thermal_emission.png " alt="Grill" title="Charcoal Grill" width="200" height="200" />
 
 As Justin explains in the episode, the silicon-based iPhone camera detects into the SWIR, but has a filter that blocks
