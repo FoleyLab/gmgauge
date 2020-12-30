@@ -20,12 +20,12 @@ We will use this page to post additional content, including simulations using [J
 Some images SWIR thermal emission detected by an iPhone camera are shown below.  To the eye, these objects look orange in color and are somewhat dim; in
 the iPhone camera image, they are bright and look almost pink in color.
 
-<img src="images/SWIR_2.png " alt="Propane Heater"
-	title="Propane Heater" width="200" height="200" />. <img src="images/thermal_emission.png " alt="Grill" title="Charcoal Grill" width="200" height="200" />
+<img src="images/SWIR_2.png " alt="Charcoal Chimney"
+	title="Charcoal Chimney" width="200" height="200" />. <img src="images/thermal_emission.png " alt="Heater" title="Propane Heater" width="200" height="200" />
 
 As Justin explains in the episode, the silicon-based iPhone camera detects into the SWIR, but has a filter that blocks
 the relatively small amount of SWIR radiation normally emitted at ambient temperatures.  However, the blackbody emission from objects
-as hot as a charcoal grill or a propane heater (>500 degrees celcius) is strong enough in the SWIR to be detected by 
+as hot as a charcoal chimney or a propane heater (>500 degrees celcius) is strong enough in the SWIR to be detected by 
 the iPhone camera even with filtration.
 
 - There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/6vfh4EnglzJrsF4pTnRu2T?si=vAXV00BDTvKsTsYU4Nuwvg)
