@@ -5,12 +5,14 @@ You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191)
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
 
 
-### [Epsiode 4: THz](https://www.buzzsprout.com/1442191)
+### [Epsiode 4: THz](https://open.spotify.com/episode/5pEd3YeUCuLn76USuaZg6s?si=8k1gSQ8fSHm_T1eTwOcIqg)
 
 - [Thermal Radiation of THz Photons and more](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_4.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_4.ipynb)
 
-### [Epsiode 5: SWIR with Prof. Justin Caram](https://www.buzzsprout.com/1442191/episodes/7011973)
+- There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/3mLENkw6EutEXHM3YHTY3k?si=LIkd3KeGTcmoOzORR6Lxww) 
+
+### [Epsiode 5: SWIR with Prof. Justin Caram](https://open.spotify.com/episode/03gFQCXfUhq998t9eUhTFb?si=7aMXBQkAS3C32a40YGEkZw)
 
 - [Scaling relationships from the Particle in a Box](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_5.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_5.ipynb)
@@ -25,3 +27,5 @@ As Justin explains in the episode, the silicon-based iPhone camera detects into 
 the relatively small amount of SWIR radiation normally emitted at ambient temperatures.  However, the blackbody emission from objects
 as hot as a charcoal grill or a propane heater (>500 degrees celcius) is strong enough in the SWIR to be detected by 
 the iPhone camera even with filtration.
+
+- There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/6vfh4EnglzJrsF4pTnRu2T?si=vAXV00BDTvKsTsYU4Nuwvg)
