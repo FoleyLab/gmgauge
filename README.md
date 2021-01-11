@@ -37,7 +37,7 @@ the iPhone camera even with filtration.
 
 A schematic of an SPR biosensor courtesy of Bruker:
 <img src="images/spr_graphic.jpg " alt="Surface plasmon resonance biosensor"
-	title="SPR Biosensor" width="200" height="200" />
+	title="SPR Biosensor" width="200" />
 
 
 - There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/6vfh4EnglzJrsF4pTnRu2T?si=vAXV00BDTvKsTsYU4Nuwvg)
