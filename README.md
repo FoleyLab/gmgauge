@@ -35,12 +35,9 @@ the iPhone camera even with filtration.
 - [Simulating the sensitivity of an SPR-based biosensor](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_6.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_6.ipynb)
 
-Some images SWIR thermal emission detected by an iPhone camera are shown below.  To the eye, these objects look orange in color and are somewhat dim; in
-the iPhone camera image, they are bright and look almost pink in color.
-
-<img src="images/SWIR_2.png " alt="Charcoal Chimney"
-	title="Charcoal Chimney" width="200" height="200" />. <img src="images/thermal_emission.png " alt="Heater" title="Propane Heater" width="200" height="200" />
-
+A schematic of an SPR biosensor courtesy of Bruker:
+<img src="images/spr_graphic.jpg " alt="Surface plasmon resonance biosensor"
+	title="SPR Biosensor" width="200" height="200" />
 
 
 - There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/6vfh4EnglzJrsF4pTnRu2T?si=vAXV00BDTvKsTsYU4Nuwvg)
