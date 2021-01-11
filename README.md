@@ -36,8 +36,8 @@ the iPhone camera even with filtration.
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_6.ipynb)
 
 A schematic of an SPR biosensor courtesy of Bruker:
-<img src="images/spr_graphic.jpg " alt="Surface plasmon resonance biosensor"
-	title="SPR Biosensor" width="200" />
+
+<img src="images/spr_graphic.jpg " alt="Surface plasmon resonance biosensor" title="SPR Biosensor" width="400" />
 
 
 - There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/6vfh4EnglzJrsF4pTnRu2T?si=vAXV00BDTvKsTsYU4Nuwvg)
