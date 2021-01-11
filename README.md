@@ -40,5 +40,5 @@ A schematic of an SPR biosensor from [Bruker](https://www.bruker.com/products/su
 <img src="images/spr_graphic.jpg " alt="Surface plasmon resonance biosensor" title="SPR Biosensor" width="400" />
 
 
-- There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/6vfh4EnglzJrsF4pTnRu2T?si=vAXV00BDTvKsTsYU4Nuwvg)
+- There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/5dqmMKMRwXeZzMAvkRLzWF?si=LpewxzmXR6-KmbZvB4da1w)
 
