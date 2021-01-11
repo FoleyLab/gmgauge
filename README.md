@@ -35,7 +35,7 @@ the iPhone camera even with filtration.
 - [Simulating the sensitivity of an SPR-based biosensor](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_6.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_6.ipynb)
 
-A schematic of an SPR biosensor courtesy of Bruker:
+A schematic of an SPR biosensor from [Bruker](https://www.bruker.com/products/surface-plasmon-resonance.html):
 
 <img src="images/spr_graphic.jpg " alt="Surface plasmon resonance biosensor" title="SPR Biosensor" width="400" />
 
