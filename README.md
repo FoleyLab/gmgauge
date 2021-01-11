@@ -29,3 +29,19 @@ as hot as a charcoal chimney or a propane heater (>500 degrees celcius) is stron
 the iPhone camera even with filtration.
 
 - There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/6vfh4EnglzJrsF4pTnRu2T?si=vAXV00BDTvKsTsYU4Nuwvg)
+
+### [Epsiode 6: Surface Plasmon Resonance Biosensors](https://open.spotify.com/episode/03gFQCXfUhq998t9eUhTFb?si=7aMXBQkAS3C32a40YGEkZw)
+
+- [Simulating the sensitivity of an SPR-based biosensor](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_6.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_6.ipynb)
+
+Some images SWIR thermal emission detected by an iPhone camera are shown below.  To the eye, these objects look orange in color and are somewhat dim; in
+the iPhone camera image, they are bright and look almost pink in color.
+
+<img src="images/SWIR_2.png " alt="Charcoal Chimney"
+	title="Charcoal Chimney" width="200" height="200" />. <img src="images/thermal_emission.png " alt="Heater" title="Propane Heater" width="200" height="200" />
+
+
+
+- There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/6vfh4EnglzJrsF4pTnRu2T?si=vAXV00BDTvKsTsYU4Nuwvg)
+
