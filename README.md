@@ -39,7 +39,7 @@ A schematic of an SPR biosensor from [Bruker](https://www.bruker.com/products/su
 
 <img src="images/spr_graphic.jpg " alt="Surface plasmon resonance biosensor" title="SPR Biosensor" width="400" />
 
-A paper describing a dual-function plasmonic sensor for COVID-19 detection can be found [here](images/acsnano.0c02439.pdf)
+A paper describing a dual-function plasmonic sensor for COVID-19 detection can be found [here!](images/acsnano.0c02439.pdf)
 
 
 - There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/5dqmMKMRwXeZzMAvkRLzWF?si=LpewxzmXR6-KmbZvB4da1w)
