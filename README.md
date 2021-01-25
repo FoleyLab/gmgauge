@@ -4,6 +4,29 @@ You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191)
 
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
 
+### [Episode 7: 2020 Recap](https://open.spotify.com/show/7hh6eZ3TLxJFwuWnLAXM6L?si=qp-GQc4ZSXGgvbvyYtUi2w)
+
+What better way to celebrate the end of 2020 than by talking about it for 80 minutes? We take a break from science talk and (mostly) leave aside the bad stuff from the year to focus on what music, TV, podcasts, and youtube channels kept us sane during lockdown. We also contemplate the future of in-person conferences and get excited for the Goeppert Mayer Gauge in 2021. 
+
+Be sure to check out the accompanying [Spotify playlist](https://open.spotify.com/playlist/6DzfdEzW8m7HDjy18bGPi8?si=rgElSTJLTDSIcRhPx4UAJw)
+
+YouTube series and videos that got us through 2020:
+
+- [Polaritonic Chemistry Webinar Series](https://www.youtube.com/channel/UC3MCkwsb8v4HldW1tI6U56w)
+
+- [Global XAS Journal Club](https://www.youtube.com/channel/UCwtkyiTV4BltKTQ7tS0CltQ)
+
+- [The Wren's live at Vintage Vinyl](https://www.youtube.com/watch?v=IVhtnCNZgAk)
+
+- [Puff Daddy's All about the Benjamins](https://www.youtube.com/watch?v=PaEMpAlppNE)
+
+- [All about the Benjamins (Shot-Caller Rock Remix)](https://www.youtube.com/watch?v=S-zFxG49Sms)
+
+- [Sam Vaknin's YouTube channel](https://www.youtube.com/user/samvaknin/videos)
+
+- [Souped Up Recipes](https://www.youtube.com/c/SoupedUpRecipes/videos)
+
+
 ### [Epsiode 6: Surface Plasmon Resonance Biosensors](https://open.spotify.com/episode/03gFQCXfUhq998t9eUhTFb?si=7aMXBQkAS3C32a40YGEkZw)
 
 - [Simulating the sensitivity of an SPR-based biosensor](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_6.ipynb)
