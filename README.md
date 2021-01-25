@@ -26,6 +26,8 @@ And also, these were the YouTube series and videos that got us through 2020:
 
 - [Souped Up Recipes](https://www.youtube.com/c/SoupedUpRecipes/videos)
 
+- [The Planet Cast with KC and Elka](https://youtube.com/playlist?list=PLbdgGGWYAw2ZgC79h9wdahWBnHnWYOfKq)
+
 
 ### [Epsiode 6: Surface Plasmon Resonance Biosensors](https://open.spotify.com/episode/03gFQCXfUhq998t9eUhTFb?si=7aMXBQkAS3C32a40YGEkZw)
 
