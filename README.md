@@ -8,9 +8,9 @@ We will use this page to post additional content, including simulations using [J
 
 What better way to celebrate the end of 2020 than by talking about it for 80 minutes? We take a break from science talk and (mostly) leave aside the bad stuff from the year to focus on what music, TV, podcasts, and youtube channels kept us sane during lockdown. We also contemplate the future of in-person conferences and get excited for the Goeppert Mayer Gauge in 2021. 
 
-Be sure to check out the accompanying [Spotify playlist](https://open.spotify.com/playlist/6DzfdEzW8m7HDjy18bGPi8?si=rgElSTJLTDSIcRhPx4UAJw)
+Be sure to check out the accompanying [Spotify playlist!](https://open.spotify.com/playlist/6DzfdEzW8m7HDjy18bGPi8?si=rgElSTJLTDSIcRhPx4UAJw)
 
-YouTube series and videos that got us through 2020:
+And also, these were the YouTube series and videos that got us through 2020:
 
 - [Polaritonic Chemistry Webinar Series](https://www.youtube.com/channel/UC3MCkwsb8v4HldW1tI6U56w)
 
