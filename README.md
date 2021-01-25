@@ -4,13 +4,19 @@ You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191)
 
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
 
+### [Epsiode 6: Surface Plasmon Resonance Biosensors](https://open.spotify.com/episode/03gFQCXfUhq998t9eUhTFb?si=7aMXBQkAS3C32a40YGEkZw)
 
-### [Epsiode 4: THz](https://open.spotify.com/episode/5pEd3YeUCuLn76USuaZg6s?si=8k1gSQ8fSHm_T1eTwOcIqg)
+- [Simulating the sensitivity of an SPR-based biosensor](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_6.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_6.ipynb)
 
-- [Thermal Radiation of THz Photons and more](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_4.ipynb)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_4.ipynb)
+A schematic of an SPR biosensor from [Bruker](https://www.bruker.com/products/surface-plasmon-resonance.html):
 
-- There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/3mLENkw6EutEXHM3YHTY3k?si=LIkd3KeGTcmoOzORR6Lxww) 
+<img src="images/spr_graphic.jpg " alt="Surface plasmon resonance biosensor" title="SPR Biosensor" width="400" />
+
+A paper describing a dual-function plasmonic sensor for COVID-19 detection can be found [here!](images/acsnano.0c02439.pdf)
+
+
+- There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/5dqmMKMRwXeZzMAvkRLzWF?si=LpewxzmXR6-KmbZvB4da1w)
 
 ### [Epsiode 5: SWIR with Prof. Justin Caram](https://open.spotify.com/episode/03gFQCXfUhq998t9eUhTFb?si=7aMXBQkAS3C32a40YGEkZw)
 
@@ -30,17 +36,11 @@ the iPhone camera even with filtration.
 
 - There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/6vfh4EnglzJrsF4pTnRu2T?si=vAXV00BDTvKsTsYU4Nuwvg)
 
-### [Epsiode 6: Surface Plasmon Resonance Biosensors](https://open.spotify.com/episode/03gFQCXfUhq998t9eUhTFb?si=7aMXBQkAS3C32a40YGEkZw)
+### [Epsiode 4: THz](https://open.spotify.com/episode/5pEd3YeUCuLn76USuaZg6s?si=8k1gSQ8fSHm_T1eTwOcIqg)
 
-- [Simulating the sensitivity of an SPR-based biosensor](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_6.ipynb)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_6.ipynb)
+- [Thermal Radiation of THz Photons and more](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_4.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_4.ipynb)
 
-A schematic of an SPR biosensor from [Bruker](https://www.bruker.com/products/surface-plasmon-resonance.html):
+- There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/3mLENkw6EutEXHM3YHTY3k?si=LIkd3KeGTcmoOzORR6Lxww) 
 
-<img src="images/spr_graphic.jpg " alt="Surface plasmon resonance biosensor" title="SPR Biosensor" width="400" />
-
-A paper describing a dual-function plasmonic sensor for COVID-19 detection can be found [here!](images/acsnano.0c02439.pdf)
-
-
-- There is also a [Companion Spotify Playlist!](https://open.spotify.com/playlist/5dqmMKMRwXeZzMAvkRLzWF?si=LpewxzmXR6-KmbZvB4da1w)
 
