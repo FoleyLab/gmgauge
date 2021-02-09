@@ -6,7 +6,17 @@ We will use this page to post additional content, including simulations using [J
 
 ### [Episode 8: Interview with Jeamme Chia about Maria Goeppert Mayer](https://www.buzzsprout.com/1442191/episodes/7573144)
 
-[Jeamme Chia](https://www.linkedin.com/in/jeammechia/), who did original research on Maria Goeppert Mayer's time at Sarah Lawrence College, joins us to talk about our namesake at a particularly formative time in her career.   
+[Jeamme Chia](https://www.linkedin.com/in/jeammechia/), who did original research on Maria Goeppert Mayer, joins us to talk about our namesake at a particularly formative time in her career.  Maria Goeppert Mayer's first paid faculty position was at Sarah Lawrence College, and it was during her time at Sarah Lawrence College that she was recruited to work on the Manhattan Project in the Substitute Alloy Materials Lab.  We talk with Jeamme about the Sarah Lawrcence system, about how Maria Goeppert Mayer changed science education there, and about many other things!  
+
+Some companion readings for this episode: 
+
+- [Sarah Lawrence College's Maria Goeppert Mayer exhibit](https://www.sarahlawrence.edu/archives/exhibits/maria-goeppert-mayer-exhibit/)
+
+- [Jeamme's paper from her time at Sarah Lawrence College](https://www.amazon.com/Son-Entropy-Personal-Memories-Physicist/dp/1463420692)
+
+- ["Beyond Curie" by Scott Calvin](https://iopscience.iop.org/book/978-1-6817-4645-6)
+
+- [Personal memoir of Peter Mayer about Maria and Joe](https://www.amazon.com/Son-Entropy-Personal-Memories-Physicist/dp/1463420692)
 
 You can read more about Jeamme's current work on environmental policy, with a particular focus on the relocation of Indonesia's capitol, [here!](https://tri.yale.edu/people/jeamme-chia)
 
