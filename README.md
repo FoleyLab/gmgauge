@@ -6,7 +6,7 @@ We will use this page to post additional content, including simulations using [J
 
 ### [Episode 8: Interview with Jeamme Chia about Maria Goeppert Mayer](https://www.buzzsprout.com/1442191/episodes/7573144)
 
-[Jeamme Chia](https://www.linkedin.com/in/jeammechia/), who did original research on Maria Goeppert Mayer, joins us to talk about our namesake at a particularly formative time in her career.  Maria Goeppert Mayer's first paid faculty position was at Sarah Lawrence College, and it was during her time at Sarah Lawrence College that she was recruited to work on the Manhattan Project in the Substitute Alloy Materials Lab.  We talk with Jeamme about the Sarah Lawrcence system, about how Maria Goeppert Mayer changed science education there, and about many other things!  
+[Jeamme Chia](https://www.linkedin.com/in/jeammechia/), who did original research on Maria Goeppert Mayer, joins us to talk about our namesake at a particularly formative time in her career.  Maria Goeppert Mayer's first paid faculty position was at Sarah Lawrence College, and it was during her time at Sarah Lawrence College that she was recruited to work on the Manhattan Project in the Substitute Alloy Materials Lab.  We talk with Jeamme about the Sarah Lawrence system, about how Maria Goeppert Mayer changed science education there, and about many other things!  
 
 Some companion readings for this episode: 
 
