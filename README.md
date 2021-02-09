@@ -4,6 +4,13 @@ You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191)
 
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
 
+### [Episode 8: Interview with Jeamme Chia about Maria Goeppert Mayer](https://www.buzzsprout.com/1442191/episodes/7573144)
+
+[Jeamme Chia](https://www.linkedin.com/in/jeammechia/), who did original research on Maria Goeppert Mayer's time at Sarah Lawrence College, joins us to talk about our namesake at a particularly formative time in her career.   
+
+You can read more about Jeamme's current work on environmental policy, with a particular focus on the relocation of Indonesia's capitol, [here!](https://tri.yale.edu/people/jeamme-chia)
+
+
 ### [Episode 7: 2020 Recap](https://open.spotify.com/show/7hh6eZ3TLxJFwuWnLAXM6L?si=qp-GQc4ZSXGgvbvyYtUi2w)
 
 What better way to celebrate the end of 2020 than by talking about it for 80 minutes? We take a break from science talk and (mostly) leave aside the bad stuff from the year to focus on what music, TV, podcasts, and youtube channels kept us sane during lockdown. We also contemplate the future of in-person conferences and get excited for the Goeppert Mayer Gauge in 2021. 
