@@ -12,7 +12,7 @@ Some companion readings for this episode:
 
 - [Sarah Lawrence College's Maria Goeppert Mayer exhibit](https://www.sarahlawrence.edu/archives/exhibits/maria-goeppert-mayer-exhibit/)
 
-- [Jeamme's paper from her time at Sarah Lawrence College](https://www.amazon.com/Son-Entropy-Personal-Memories-Physicist/dp/1463420692)
+- [Jeamme's paper from her time at Sarah Lawrence College](https://github.com/FoleyLab/gmgauge/blob/main/docs/Chia_Maria%20Goeppert%20Mayer%20-%20Revisiting%20Science%20at%20Sarah%20Lawrence%20-%20March%202012%20edit.pdf)
 
 - ["Beyond Curie" by Scott Calvin](https://iopscience.iop.org/book/978-1-6817-4645-6)
 
