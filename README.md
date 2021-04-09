@@ -68,7 +68,7 @@ A paper describing a dual-function plasmonic sensor for COVID-19 detection can b
 
 ### [Epsiode 5: SWIR with Prof. Justin Caram](https://open.spotify.com/episode/03gFQCXfUhq998t9eUhTFb?si=7aMXBQkAS3C32a40YGEkZw)
 
--[Establishing Design Principles for Emissive Organic SWIR Chromophores from Energy Gap Laws](https://chemrxiv.org/articles/preprint/Establishing_Design_Principles_for_Emissive_Organic_SWIR_Chromophores_from_Energy_Gap_Laws/14374493)
+- [Establishing Design Principles for Emissive Organic SWIR Chromophores from Energy Gap Laws](https://chemrxiv.org/articles/preprint/Establishing_Design_Principles_for_Emissive_Organic_SWIR_Chromophores_from_Energy_Gap_Laws/14374493)
 
 - [Scaling relationships from the Particle in a Box](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_5.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_5.ipynb)
