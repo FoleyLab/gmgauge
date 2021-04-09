@@ -4,7 +4,7 @@ You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191)
 
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
 
-### [Episode 9: Optical Transient Absorption Spectroscopy (Coming Soon)](https://open.spotify.com/show/7hh6eZ3TLxJFwuWnLAXM6L?si=qp-GQc4ZSXGgvbvyYtUi2w)
+### [Episode 9: Optical Transient Absorption Spectroscopy (Coming April 13th)](https://www.buzzsprout.com/1442191/episodes/8304070)
 
 - [Review on Ultrafast Transient Absorption Spectroscopy](https://link.springer.com/article/10.1007/s11120-009-9454-y)
 - [Video tutorial on photochemical studies with Transient Absorption](https://youtu.be/LlVhMgl6Z_U)
