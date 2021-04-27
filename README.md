@@ -12,7 +12,7 @@ We are joined by [Prof. Lea Nienhaus](https://www.chem.fsu.edu/~nienhaus/) from 
 - [Bright and loud in the age of darkness](https://noiserpuss.bandcamp.com/album/bright-and-loud-in-an-age-of-darkness)
 
 
-<img src="images/TIR_hendricks.jpeg" alt="Total Internal Reflection in Hendricks and Tonic" title="TIR" height="250" /> <img src="images/empress_glowy.jpeg" alt="Fluorescence in Empress Gin" title="Glowy Empress" height="250" />
+<img src="images/TIR_hendricks.jpeg" alt="Total Internal Reflection in Hendricks and Tonic" title="TIR" height="200" /> <img src="images/empress_glowy.jpeg" alt="Fluorescence in Empress Gin" title="Glowy Empress" height="200" />
 
 ### [Episode 9: Optical Transient Absorption Spectroscopy](https://www.buzzsprout.com/1442191/episodes/8304070)
 
