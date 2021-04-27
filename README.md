@@ -9,6 +9,7 @@ We are joined by [Prof. Lea Nienhaus](https://www.chem.fsu.edu/~nienhaus/) from 
 
 - [Review article on photon upconversion with perovskites](https://pubs.rsc.org/kz/content/articlelanding/2021/tc/d1tc00245g/unauth#!divAbstract)
 - [Matter article discussing Lea's Kitchen Spectroscopy outreach](https://doi.org/10.1016/j.matt.2020.04.026)
+- [Bright and loud in the age of darkness](https://noiserpuss.bandcamp.com/album/bright-and-loud-in-an-age-of-darkness)
 
 
 <img src="images/TIR_hendricks.jpeg" alt="Total Internal Reflection in Hendricks and Tonic" title="TIR" height="400" /> <img src="images/empress_glowy.jpeg" alt="Fluorescence in Empress Gin" title="Glowy Empress" height="400" />
