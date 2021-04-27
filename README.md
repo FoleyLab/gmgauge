@@ -3,12 +3,21 @@
 You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191), or subscribe on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-goeppert-mayer-gauge/id1537314272), [Spotify](https://open.spotify.com/show/7hh6eZ3TLxJFwuWnLAXM6L?si=qp-GQc4ZSXGgvbvyYtUi2w), and probably other places! 
 
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
+### [Episode 10: Perovskites and photon upconversion with Prof. Lea Nienhaus](https://www.buzzsprout.com/1442191/episodes/8393794-episode-9-perovskites-and-photon-upconversion-with-prof-lea-nienhaus)
 
-### [Episode 9: Optical Transient Absorption Spectroscopy (Coming April 13th)](https://www.buzzsprout.com/1442191/episodes/8304070)
+We are joined by [Prof. Lea Nienhaus](https://www.chem.fsu.edu/~nienhaus/) from Florida State University to learn about photon upconversion with perosvkites, a strategy for increasing the efficiency of photovoltaic energy conversion among other applications that her group has pioneered in the last few years.  We also talk to Lea about her science communication project, "Kitchen Spectroscopy", that she launched at the beginning of the COVID-19 pandemic that empowers people to discover the plethora of ["glowy things"](https://www.chem.fsu.edu/~nienhaus/kitchenspec.html) that can be found at home.
+
+- [Review article on photon upconversion with perovskites](https://pubs.rsc.org/kz/content/articlelanding/2021/tc/d1tc00245g/unauth#!divAbstract)
+- [Matter article discussing Lea's Kitchen Spectroscopy outreach](https://doi.org/10.1016/j.matt.2020.04.026)
+
+
+
+### [Episode 9: Optical Transient Absorption Spectroscopy](https://www.buzzsprout.com/1442191/episodes/8304070)
 
 - [Review on Ultrafast Transient Absorption Spectroscopy](https://link.springer.com/article/10.1007/s11120-009-9454-y)
 - [Video tutorial on photochemical studies with Transient Absorption](https://youtu.be/LlVhMgl6Z_U)
 - [Transient Absorption Explained Video](https://youtu.be/RFFfYlq3oEo)
+- [Rilo Kiley Playlist](https://open.spotify.com/playlist/2FlW9jFMge0rmgkpDa3M5x?si=iNC4KD7FS6-EBsTIb1Tv1Q)
 
 ### [Episode 8: Interview with Jeamme Chia about Maria Goeppert Mayer](https://www.buzzsprout.com/1442191/episodes/7573144)
 
