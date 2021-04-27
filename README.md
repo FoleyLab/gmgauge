@@ -13,7 +13,7 @@ We are joined by [Prof. Lea Nienhaus](https://www.chem.fsu.edu/~nienhaus/) from 
 
 <img src="images/TIR_Hendricks.jpeg " alt="Total Internal Reflection in Hendricks and Tonic" title="TIR" width="400" />
 
-<img src="images/Empress_glowy.jpeg " alt="Fluorescence in Empress Gin" title="Glowy Empress" width="400" />
+<img src="images/empress_glowy.jpeg " alt="Fluorescence in Empress Gin" title="Glowy Empress" width="400" />
 
 ### [Episode 9: Optical Transient Absorption Spectroscopy](https://www.buzzsprout.com/1442191/episodes/8304070)
 
