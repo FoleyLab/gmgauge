@@ -19,7 +19,7 @@ We are joined by [Prof. Lea Nienhaus](https://www.chem.fsu.edu/~nienhaus/) from 
 - [Review on Ultrafast Transient Absorption Spectroscopy](https://link.springer.com/article/10.1007/s11120-009-9454-y)
 - [Video tutorial on photochemical studies with Transient Absorption](https://youtu.be/LlVhMgl6Z_U)
 - [Transient Absorption Explained Video](https://youtu.be/RFFfYlq3oEo)
-- [Rilo Kiley Playlist](https://open.spotify.com/playlist/2FlW9jFMge0rmgkpDa3M5x?si=iNC4KD7FS6-EBsTIb1Tv1Q)
+- [A Rilo Kiley Playlist for Dugan](https://open.spotify.com/playlist/2FlW9jFMge0rmgkpDa3M5x?si=iNC4KD7FS6-EBsTIb1Tv1Q)
 
 ### [Episode 8: Interview with Jeamme Chia about Maria Goeppert Mayer](https://www.buzzsprout.com/1442191/episodes/7573144)
 
