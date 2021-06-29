@@ -14,14 +14,14 @@ We are joined by [Prof. Lea Nienhaus](https://www.chem.fsu.edu/~nienhaus/) from 
 
 <img src="images/TIR_hendricks.jpeg" alt="Total Internal Reflection in Hendricks and Tonic" title="TIR" height="200" /> <img src="images/empress_glowy.jpeg" alt="Fluorescence in Empress Gin" title="Glowy Empress" height="200" />
 
-### [Episode 9: Optical Transient Absorption Spectroscopy](https://www.buzzsprout.com/1442191/episodes/8304070)
+### [Episode 9: Optical Transient Absorption Spectroscopy](https://www.buzzsprout.com/1442191/8304070-episode-9-transient-absorption)
 
 - [Review on Ultrafast Transient Absorption Spectroscopy](https://link.springer.com/article/10.1007/s11120-009-9454-y)
 - [Video tutorial on photochemical studies with Transient Absorption](https://youtu.be/LlVhMgl6Z_U)
 - [Transient Absorption Explained Video](https://youtu.be/RFFfYlq3oEo)
 - [A Rilo Kiley Playlist for Dugan](https://open.spotify.com/playlist/2FlW9jFMge0rmgkpDa3M5x?si=iNC4KD7FS6-EBsTIb1Tv1Q)
 
-### [Episode 8: Interview with Jeamme Chia about Maria Goeppert Mayer](https://www.buzzsprout.com/1442191/episodes/7573144)
+### [Episode 8: Interview with Jeamme Chia about Maria Goeppert Mayer](https://www.buzzsprout.com/1442191/7573144-episode-8-interview-with-jeamme-chia-on-maria-goeppert-mayer)
 
 [Jeamme Chia](https://www.linkedin.com/in/jeammechia/), who did original research on Maria Goeppert Mayer, joins us to talk about our namesake at a particularly formative time in her career.  Maria Goeppert Mayer's first paid faculty position was at Sarah Lawrence College, and it was during her time at Sarah Lawrence College that she was recruited to work on the Manhattan Project in the Substitute Alloy Materials Lab.  We talk with Jeamme about the Sarah Lawrence system, about how Maria Goeppert Mayer changed science education there, and about many other things!  
 
