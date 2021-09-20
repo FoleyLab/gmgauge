@@ -8,7 +8,8 @@ We will use this page to post additional content, including simulations using [J
 
 New season, new format - we broadcast in-person from a hot tub in Atlanta during the Fall 2021 ACS Meeting!  We have been planning to review "Sit Resist" by Laura Stevenson basically since we started podcasting in Fall 2020, and we finally do in this episode.  And by "review" we really mean talk about how amazing this album is.  Content warning that this episode discusses dark subject matter, including physical abuse, substance abuse, and death; specific warnings are provided in the audio along with the duration of the content for listeners that would like to skip certain content.
 
-- [The Chair](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSit_Resist&psig=AOvVaw1mjqm0fXQ51fzvCWJBhcX6&ust=1632253453751000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCHq5GojvMCFQAAAAAdAAAAABAD)
+<img src="images/chair.jpeg" alt="The chair" title="chair" height="200" /> 
+
 - [Purchase Sit Resist on Bandcamp](https://laurastevenson.bandcamp.com/album/sit-resist-2)
 
 ### [Episode 12: Fluorescence Guided Surgery with Dr. Christie Lin](https://www.buzzsprout.com/1442191/episodes/8578938)
