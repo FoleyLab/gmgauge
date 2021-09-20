@@ -3,6 +3,25 @@
 You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191), or subscribe on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-goeppert-mayer-gauge/id1537314272), [Spotify](https://open.spotify.com/show/7hh6eZ3TLxJFwuWnLAXM6L?si=qp-GQc4ZSXGgvbvyYtUi2w), and probably other places! 
 
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
+
+### [Episode 13: Review of "Sit Resist" by Laura Stevenson](https://www.buzzsprout.com/1442191/episodes/9216794-episode-13-sit-resist)
+
+New season, new format - we broadcast in-person from a hot tub in Atlanta during the Fall 2021 ACS Meeting!  We have been planning to review "Sit Resist" by Laura Stevenson basically since we started podcasting in Fall 2020, and we finally do in this episode.  And by "review" we really mean talk about how amazing this album is.  Content warning that this episode discusses dark subject matter, including physical abuse, substance abuse, and death; specific warnings are provided in the audio along with the duration of the content for listeners that would like to skip certain content.
+
+### [Episode 12: Fluorescence Guided Surgery with Dr. Christie Lin](https://www.buzzsprout.com/1442191/episodes/8578938)
+
+In this episode, we talk about ways in which light-matter interactions are revolutionizing surgery.  We are joined by Christie Lin,  VP of Research at OnLume - a startup based in Madison WI dedicated to improving patient outcomes through innovations in Fluorescence Guided Surgery (FGS).  Christie prompts us to revisit some of our favorite topics, including SWIR fluorophores and gamma rays, and she also introduces us to regulatory policy for combination drug and medical devices!  The results of our first ever Twitter poll are announced,  and we finally answer a question that has been vexing us since Episode 1: How DO you focus a proton beam?  The answer might leave you speechless.
+
+- [Ted Talk on FGS by Prof. Quyen Nguyen](https://youtu.be/-j2XrT0QN5A)
+
+### [Episode 11: Statistical Mechanics with Prof. Katja Lindenberg](https://www.buzzsprout.com/1442191/episodes/8494742)
+
+We're unbelievably honored and excited to have the legendary Prof. Katja Lindenberg on the show to take us through her life in physics and physical chemistry. We talk to Prof. Lindenberg about her early life and education, her transition from mathematics to physics, and of course her incredible 50 year career at UCSD, during which she used "the language of science" (statistical mechanics) to describe problems involving random processes in nearly every discipline you could possibly imagine. We also get to hear a few stories about some of her first friends and mentors at UCSD, Maria Goeppert Mayer and her husband Joe Mayer!
+
+- [Video in honor of Prof. Katja Lindenberg's receipt of the 2020 Revelle Medal](https://youtu.be/lCT9alFbR2o)
+- [Lecture on synchronization and other collective phenomena by Prof. Lindenberg](https://youtu.be/OgUlDLp4-nY)
+
+
 ### [Episode 10: Perovskites and photon upconversion with Prof. Lea Nienhaus](https://www.buzzsprout.com/1442191/episodes/8393794-episode-9-perovskites-and-photon-upconversion-with-prof-lea-nienhaus)
 
 We are joined by [Prof. Lea Nienhaus](https://www.chem.fsu.edu/~nienhaus/) from Florida State University to learn about photon upconversion with perosvkites, a strategy for increasing the efficiency of photovoltaic energy conversion among other applications that her group has pioneered in the last few years.  We also talk to Lea about her science communication project, "Kitchen Spectroscopy", that she launched at the beginning of the COVID-19 pandemic that empowers people to discover the plethora of ["glowy things"](https://www.chem.fsu.edu/~nienhaus/kitchenspec.html) that can be found at home.  Transition music in the episode is courtesy of [Prof. Nate DeYonker's](https://www.memphis.edu/chem/faculty-deyonker/) [Noiserpuss](https://noiserpuss.bandcamp.com/) project!
