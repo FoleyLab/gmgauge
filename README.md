@@ -26,7 +26,7 @@ We're unbelievably honored and excited to have the legendary Prof. Katja Lindenb
 - [Lecture on synchronization and other collective phenomena by Prof. Lindenberg](https://youtu.be/OgUlDLp4-nY)
 
 
-### [Episode 10: Perovskites and photon upconversion with Prof. Lea Nienhaus](https://www.buzzsprout.com/1442191/episodes/8393794-episode-9-perovskites-and-photon-upconversion-with-prof-lea-nienhaus)
+### [Episode 10: Perovskites and photon upconversion with Prof. Lea Nienhaus](https://www.buzzsprout.com/1442191/8393794-episode-10-perovskites-and-photon-upconversion-with-prof-lea-nienhaus)
 
 We are joined by [Prof. Lea Nienhaus](https://www.chem.fsu.edu/~nienhaus/) from Florida State University to learn about photon upconversion with perosvkites, a strategy for increasing the efficiency of photovoltaic energy conversion among other applications that her group has pioneered in the last few years.  We also talk to Lea about her science communication project, "Kitchen Spectroscopy", that she launched at the beginning of the COVID-19 pandemic that empowers people to discover the plethora of ["glowy things"](https://www.chem.fsu.edu/~nienhaus/kitchenspec.html) that can be found at home.  Transition music in the episode is courtesy of [Prof. Nate DeYonker's](https://www.memphis.edu/chem/faculty-deyonker/) [Noiserpuss](https://noiserpuss.bandcamp.com/) project!
 
