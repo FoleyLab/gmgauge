@@ -10,6 +10,10 @@ This month is more Back 2 Basics as we discuss the famous Stern-Gerlach experime
 
 <img src="images/SG.gif" alt="Post Card to Bohr" title="Post Card" height="200" /> 
 
+- [Stern-Gerlach Lecture by Allan Adams](https://youtu.be/lZ3bPUKo5zc) Lecture starts at around 10 minute mark.  By the way this 804 series is fantastic, watch every video!
+- [Jupyter Notebook simulating Stern-Gerlach type experiment on the rigid rotor system](https://github.com/FoleyLab/wpspec/blob/master/notebooks/stern-gerlach/demo_rigid-rotor_stern-gerlach.ipynb)
+- [GitHub Arctic Code Project](https://youtu.be/fzI9FNjXQ0o)
+
 ### [Episode 13: Review of "Sit Resist" by Laura Stevenson](https://www.buzzsprout.com/1442191/9216794-episode-13-sit-resist)
 
 New season, new format - we broadcast in-person from a hot tub in Atlanta during the Fall 2021 ACS Meeting!  We have been planning to review "Sit Resist" by Laura Stevenson basically since we started podcasting in Fall 2020, and we finally do in this episode.  And by "review" we really mean talk about how amazing this album is.  Content warning that this episode discusses dark subject matter, including physical abuse, substance abuse, and death; specific warnings are provided in the audio along with the duration of the content for listeners that would like to skip certain content.
