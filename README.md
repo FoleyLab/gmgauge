@@ -13,6 +13,7 @@ This month is more Back 2 Basics as we discuss the famous Stern-Gerlach experime
 - [Stern-Gerlach Lecture by Allan Adams](https://youtu.be/lZ3bPUKo5zc) Lecture starts at around 10 minute mark.  By the way this 804 series is fantastic, watch every video!
 - [Jupyter Notebook simulating Stern-Gerlach type experiment on the rigid rotor system](https://github.com/FoleyLab/wpspec/blob/master/notebooks/stern-gerlach/demo_rigid-rotor_stern-gerlach.ipynb)
 - [GitHub Arctic Code Project](https://youtu.be/fzI9FNjXQ0o)
+- [ACS Symposium Series article on S-G type simulations in Physical Chemistry](https://pubs.acs.org/doi/abs/10.1021/bk-2021-1387.ch007)
 
 ### [Episode 13: Review of "Sit Resist" by Laura Stevenson](https://www.buzzsprout.com/1442191/9216794-episode-13-sit-resist)
 
