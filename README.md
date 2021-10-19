@@ -8,7 +8,7 @@ We will use this page to post additional content, including simulations using [J
 
 This month is more Back 2 Basics as we discuss the famous Stern-Gerlach experiment. In addition to the classic version, we contemplate thought experiments, photonic analogs, spin pedagogy, cigar smoke, Nobel Prizes, interpretations of quantum mechanics, God, and approximately infinite universes. Did I miss anything?
 
-
+<img src="images/SG.gif" alt="Post Card to Bohr" title="Post Card" height="200" /> 
 
 ### [Episode 13: Review of "Sit Resist" by Laura Stevenson](https://www.buzzsprout.com/1442191/9216794-episode-13-sit-resist)
 
