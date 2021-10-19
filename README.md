@@ -4,6 +4,12 @@ You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191)
 
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
 
+### [Episode 14: The Stern-Gerlach Experiment](https://www.buzzsprout.com/1442191/9393244-episode-14-the-stern-gerlach-experiment)
+
+This month is more Back 2 Basics as we discuss the famous Stern-Gerlach experiment. In addition to the classic version, we contemplate thought experiments, photonic analogs, spin pedagogy, cigar smoke, Nobel Prizes, interpretations of quantum mechanics, God, and approximately infinite universes. Did I miss anything?
+
+
+
 ### [Episode 13: Review of "Sit Resist" by Laura Stevenson](https://www.buzzsprout.com/1442191/9216794-episode-13-sit-resist)
 
 New season, new format - we broadcast in-person from a hot tub in Atlanta during the Fall 2021 ACS Meeting!  We have been planning to review "Sit Resist" by Laura Stevenson basically since we started podcasting in Fall 2020, and we finally do in this episode.  And by "review" we really mean talk about how amazing this album is.  Content warning that this episode discusses dark subject matter, including physical abuse, substance abuse, and death; specific warnings are provided in the audio along with the duration of the content for listeners that would like to skip certain content.
