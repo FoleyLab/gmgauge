@@ -4,6 +4,9 @@ You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191)
 
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
 
+### [Episode 15: Photocycloadditions](https://www.buzzsprout.com/1442191/9682352-episode-15-photocycloaddition)
+We're celebrating Dugan's recent JACS paper on copper-catalyzed photocycloaddition reactions by doing a Back 2 Basics episode on photocycloadditons that is really just an episode on that paper with a little bit of Woodward Hoffmann rules thrown in for good measure. But what is a podcast for besides self-promotion anyway? We return to some of our favorite topics, including X-ray spectroscopy and transient absorption, and discuss how a combination of spectroscopic techniques can be used to deduce photochemical reaction mechanisms involving transition metals. We also ask ourselves how a single methylene group can drastically change the fate of a molecule and how a single pandemic can drastically change the fate of a research project.
+
 ### [Episode 14: The Stern-Gerlach Experiment](https://www.buzzsprout.com/1442191/9393244-episode-14-the-stern-gerlach-experiment)
 
 This month is more Back 2 Basics as we discuss the famous Stern-Gerlach experiment. In addition to the classic version, we contemplate thought experiments, photonic analogs, spin pedagogy, cigar smoke, Nobel Prizes, interpretations of quantum mechanics, God, and approximately infinite universes. Did I miss anything?
