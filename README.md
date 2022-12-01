@@ -4,7 +4,7 @@ You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191)
 
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
 
-### [Episode 16: Thermal Radiation](https://www.buzzsprout.com/1442191/9682352-episode-15-photocycloaddition)
+### [Episode 16: Thermal Radiation](https://www.buzzsprout.com/1442191/11798081-episode-16-thermal-radiation)
 It's getting hot in here!  Dugan and Jay reunite to talk about thermal radiation, this time with Jay kasting from his new home - Charlotte North Carolina!
 We talk about Planck's reluctant proposal of energy quantization, Jean cubes, radiative cooling, and more!
 
