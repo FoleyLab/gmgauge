@@ -8,10 +8,13 @@ We will use this page to post additional content, including simulations using [J
 It's getting hot in here!  Dugan and Jay reunite to talk about thermal radiation, this time with Jay kasting from his new home - Charlotte North Carolina!
 We talk about Planck's reluctant proposal of energy quantization, Jean cubes, radiative cooling, and more!
 
+
 <img src="images/radiative_cooling.png " alt="Radiative Cooling"
 	title="Radiative Cooling" width="200" height="200" />.
 
-
+- [There is a companion playlist for this episode!](https://open.spotify.com/playlist/1Vb7MV4WwjOMMHLbrX4TNN?si=b1954a0911074db0)
+- [There is also a companion Jupyter notebook for this episode simulating a radiative cooling material!](https://github.com/FoleyLab/wptherml/blob/main/examples/Cooling_Demo.ipynb)
+Note you must install the wptherml software package to run this notebook - see [this quickstart guide](https://github.com/FoleyLab/wptherml/blob/main/docs/quickstart.rst) for easily installation instructions.  
 
 
 
