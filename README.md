@@ -8,6 +8,9 @@ We will use this page to post additional content, including simulations using [J
 It's getting hot in here!  Dugan and Jay reunite to talk about thermal radiation, this time with Jay kasting from his new home - Charlotte North Carolina!
 We talk about Planck's reluctant proposal of energy quantization, Jean cubes, radiative cooling, and more!
 
+<img src="images/SWIR_2.png " alt="Charcoal Chimney"
+	title="Charcoal Chimney" width="200" height="200" />. <img src="images/thermal_emission.png " alt="Heater" title="Propane Heater" width="200" height="200" />
+
 
 
 
