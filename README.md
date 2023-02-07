@@ -4,6 +4,11 @@ You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191)
 
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
 
+### [Episode 17: Theoretical Astrochemistry]()
+
+- [Vibrational Perturbation Theory with Quartic Force Fields](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_17.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_17.ipynb)
+
 ### [Episode 16: Thermal Radiation](https://www.buzzsprout.com/1442191/11798081-episode-16-thermal-radiation)
 It's getting hot in here!  Dugan and Jay reunite to talk about thermal radiation, this time with Jay kasting from his new home - Charlotte North Carolina!
 We talk about Planck's reluctant proposal of energy quantization, Jean cubes, radiative cooling, and more!
