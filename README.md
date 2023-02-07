@@ -4,10 +4,14 @@ You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191)
 
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
 
-### [Episode 17: Theoretical Astrochemistry]()
+### [Episode 17: Theoretical Astrochemistry with Prof. Nate DeYonker](https://www.buzzsprout.com/1442191/episodes/12197952#)
 
-- [Vibrational Perturbation Theory with Quartic Force Fields](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_17.ipynb)
+Prof. Nate DeYonker from the University of Memphis takes out out of this world and into the vast expanse of space as we talk all things astrochemistry. Get ready to hear about molecules that seem like they shouldn't exist, spectra from extraterrestrial telescopes with almost frighteningly good resolution, and the challenges of quantum chemistry using quartic (!!!) force fields. Nate also gives us a primer on "Pauling points" before closing the show out with an incredibly moving tribute to the late Mimi Parker from the band Low.
+
+- [There is a companion playlist for this episode!](https://open.spotify.com/playlist/7MvluvAwDWyUJXTsSVjrnJ?si=dbdf12049b68454f)
+- [There is also a companion Jupyter noteboo for this episode using VPT2 on a quartic force field!](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_17.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_17.ipynb)
+
 
 ### [Episode 16: Thermal Radiation](https://www.buzzsprout.com/1442191/11798081-episode-16-thermal-radiation)
 It's getting hot in here!  Dugan and Jay reunite to talk about thermal radiation, this time with Jay kasting from his new home - Charlotte North Carolina!
