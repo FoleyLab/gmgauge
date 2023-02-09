@@ -10,7 +10,7 @@ Prof. Nate DeYonker from the University of Memphis takes out out of this world a
 
 <img src="images/aa24542-14-fig2.png " alt="Microwave spectrum"
 	title="Microwave spectrum" width="400" height="400" />.
-
+- [An excellent and cheeky review article on theoretical prediction of rovibrational spectra of astrochemicals by Nate and Ryan Fortenberry](https://pubs.acs.org/doi/10.1021/acs.accounts.0c00631)
 - [There is a companion playlist for this episode!](https://open.spotify.com/playlist/7MvluvAwDWyUJXTsSVjrnJ?si=dbdf12049b68454f)
 - [There is also a companion Jupyter noteboo for this episode using VPT2 on a quartic force field!](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_17.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_17.ipynb)
