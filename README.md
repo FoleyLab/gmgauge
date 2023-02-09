@@ -16,6 +16,7 @@ Prof. Nate DeYonker from the University of Memphis takes out out of this world a
 - [There is also a companion Jupyter notebook for this episode using VPT2 on a quartic force field!](https://github.com/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_17.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FoleyLab/gmgauge/blob/main/Goeppert_Mayer_Gauge_Episode_17.ipynb)
 - ["Petal Alphabet" by Broadcast](https://youtu.be/TAOhpd3Ci-k) - An unrelased track that mentions ladder anxiety
+- ["Do you know how to waltz?" by Low](https://www.youtube.com/watch?v=zI5-MuV5NSo) - Drone NOT Drones!
 - Blog posts [I](https://condensedconcepts.blogspot.com/2011/08/what-is-pauling-point.html) and [II](https://condensedconcepts.blogspot.com/2011/08/what-is-pauling-point.html) on Pauling Points
 - [Literature example of a Pauling point](https://aip.scitation.org/doi/10.1063/1.4798638)  
 
