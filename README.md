@@ -6,7 +6,7 @@ We will use this page to post additional content, including simulations using [J
 
 ### [Episode 17: Theoretical Astrochemistry with Prof. Nate DeYonker](https://www.buzzsprout.com/1442191/episodes/12197952#)
 
-Prof. Nate DeYonker from the University of Memphis takes out out of this world and into the vast expanse of space as we talk all things astrochemistry. Get ready to hear about molecules that seem like they shouldn't exist, spectra from extraterrestrial telescopes with almost frighteningly good resolution, and the challenges of quantum chemistry using quartic (!!!) force fields. Nate also gives us a primer on "Pauling points" before closing the show out with an incredibly moving tribute to the late Mimi Parker from the band Low.
+Prof. Nate DeYonker from the University of Memphis takes us out of this world and into the vast expanse of space as we talk all things astrochemistry. Get ready to hear about molecules that seem like they shouldn't exist, spectra from extraterrestrial telescopes with almost frighteningly good resolution, and the challenges of quantum chemistry using quartic (!!!) force fields. Nate also gives us a primer on "Pauling points" before closing the show out with an incredibly moving tribute to the late Mimi Parker from the band Low.
 
 <img src="images/aa24542-14-fig2.png " alt="Microwave spectrum"
 	title="Microwave spectrum" width="400" height="400" />.
