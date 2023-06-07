@@ -4,7 +4,17 @@ You can use the [listen to the podcast here](https://www.buzzsprout.com/1442191)
 
 We will use this page to post additional content, including simulations using [Jupyter Notebooks](https://jupyter.org/)
 
-### [Episode 17: Theoretical Astrochemistry with Prof. Nate DeYonker](https://www.buzzsprout.com/1442191/episodes/12197952#)
+### [Episode 18: Nuclear Resonance Spectroscopies](https://www.buzzsprout.com/1442191/12988563-episode-18-nuclear-resonance-mossbauer-spectroscopies)
+
+We head to the very far end of the electromagnetic spectrum to tackle one of Dugan's favorite subjects, nuclear resonance spectroscopies.  No, not nuclear magnetic resonance - we're talking about gamma ray transitions between nuclear configurations. After a fairly exhaustive discussion of how little we know about nuclear physics, we get into the details of radioisotope Mössbauer spectroscopy, nuclear forward scattering, and even a little bit of nuclear resonance vibrational spectroscopy. How do nuclear spectroscopists achieve resolution more than thirteen orders of magnitude greater than the nuclear transition energy? You'll have to listen to find out! And be sure to stick around to the end to learn the surprising connection between Vanderpump Rules and the Fiery Furnaces's masterpiece Rehearsing My Choir.
+
+- [Check out the companion playlist!](https://open.spotify.com/playlist/624k22bl6plxIqEqyGjxGl?si=9c379e27f9974ba9&pt_success=1&nd=1)
+<img src="images/Mossbauer.png " alt="Mossbauer Spectroscopy"
+	title="Mossbauer Spectroscopy" width="400" height="400" />
+	
+
+
+### [Episode 17: Theoretical Astrochemistry with Prof. Nate DeYonker](https://www.buzzsprout.com/1442191/12197952-episode-17-astrochemistry-with-prof-nate-deyonker)
 
 Prof. Nate DeYonker from the University of Memphis takes us out of this world and into the vast expanse of space as we talk all things astrochemistry. Get ready to hear about molecules that seem like they shouldn't exist, spectra from extraterrestrial telescopes with almost frighteningly good resolution, and the challenges of quantum chemistry using quartic (!!!) force fields. Nate also gives us a primer on "Pauling points" before closing the show out with an incredibly moving tribute to the late Mimi Parker from the band Low.
 
