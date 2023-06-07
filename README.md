@@ -8,6 +8,8 @@ We will use this page to post additional content, including simulations using [J
 
 We head to the very far end of the electromagnetic spectrum to tackle one of Dugan's favorite subjects, nuclear resonance spectroscopies.  No, not nuclear magnetic resonance - we're talking about gamma ray transitions between nuclear configurations. After a fairly exhaustive discussion of how little we know about nuclear physics, we get into the details of radioisotope Mössbauer spectroscopy, nuclear forward scattering, and even a little bit of nuclear resonance vibrational spectroscopy. How do nuclear spectroscopists achieve resolution more than thirteen orders of magnitude greater than the nuclear transition energy? You'll have to listen to find out! And be sure to stick around to the end to learn the surprising connection between Vanderpump Rules and the Fiery Furnaces's masterpiece Rehearsing My Choir.
 
+
+- [Read more about Mossbauer Spectrscopy](https://link.springer.com/protocol/10.1007/978-1-62703-794-5_11)
 - [Check out the companion playlist!](https://open.spotify.com/playlist/624k22bl6plxIqEqyGjxGl?si=9c379e27f9974ba9&pt_success=1&nd=1)
 
 
